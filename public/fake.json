@@ -1,0 +1,122 @@
+[
+    {
+    "picture": "https://i.ibb.co/LSb8Xmj/Health.png",
+    "title": "Fitness Tracker",
+    "category": "Health",
+    "category_bg_color": "bg-red-500",
+    "card_bg_color": "bg-white",
+    "text_button_bg_color": "bg-gray-800",
+    "description": "Track your daily fitness activities with this smart fitness tracker.",
+    "price": 49.99
+    },
+    {
+    "picture": "https://i.ibb.co/v4vPj2N/Education.png",
+    "title": "Online Coding Course",
+    "category": "Education",
+    "category_bg_color": "bg-blue-500",
+    "card_bg_color": "bg-white",
+    "text_button_bg_color": "bg-gray-700",
+    "description": "Learn coding from experts with this comprehensive online course.",
+    "price": 149.99
+    },
+    {
+    "picture": "https://i.ibb.co/t22qQMX/Food.png",
+    "title": "Organic Fruit Basket",
+    "category": "Food",
+    "category_bg_color": "bg-green-500",
+    "card_bg_color": "bg-white",
+    "text_button_bg_color": "bg-gray-900",
+    "description": "A delicious assortment of fresh, organic fruits delivered to your doorstep.",
+    "price": 29.99
+    },
+    {
+    "picture": "https://i.ibb.co/LSb8Xmj/Health.png",
+    "title": "Yoga Mat and Accessories Set",
+    "category": "Health",
+    "category_bg_color": "bg-red-500",
+    "card_bg_color": "bg-white",
+    "text_button_bg_color": "bg-gray-800",
+    "description": "Get everything you need for a fulfilling yoga practice in one set.",
+    "price": 39.99
+    },
+    {
+    "picture": "https://i.ibb.co/v4vPj2N/Education.png",
+    "title": "Educational Books Bundle",
+    "category": "Education",
+    "category_bg_color": "bg-blue-500",
+    "card_bg_color": "bg-white",
+    "text_button_bg_color": "bg-gray-700",
+    "description": "A bundle of educational books covering a wide range of subjects.",
+    "price": 79.99
+    },
+    {
+    "picture": "https://i.ibb.co/t22qQMX/Food.png",
+    "title": "Gourmet Chocolate Box",
+    "category": "Food",
+    "category_bg_color": "bg-green-500",
+    "card_bg_color": "bg-white",
+    "text_button_bg_color": "bg-gray-900",
+    "description": "Indulge in a selection of premium gourmet chocolates from around the world.",
+    "price": 19.99
+    },
+    {
+    "picture": "https://i.ibb.co/LSb8Xmj/Health.png",
+    "title": "Nutritional Supplements",
+    "category": "Health",
+    "category_bg_color": "bg-red-500",
+    "card_bg_color": "bg-white",
+    "text_button_bg_color": "bg-gray-800",
+    "description": "Boost your health with high-quality nutritional supplements.",
+    "price": 29.99
+    },
+    {
+    "picture": "https://i.ibb.co/v4vPj2N/Education.png",
+    "title": "Language Learning Kit",
+    "category": "Education",
+    "category_bg_color": "bg-blue-500",
+    "card_bg_color": "bg-white",
+    "text_button_bg_color": "bg-gray-700",
+    "description": "Master a new language with this comprehensive learning kit.",
+    "price": 59.99
+    },
+    {
+    "picture": "https://i.ibb.co/t22qQMX/Food.png",
+    "title": "Healthy Meal Kit",
+    "category": "Food",
+    "category_bg_color": "bg-green-500",
+    "card_bg_color": "bg-white",
+    "text_button_bg_color": "bg-gray-900",
+    "description": "Cook nutritious meals at home with this convenient meal kit.",
+    "price": 49.99
+    },
+    {
+    "picture": "https://i.ibb.co/LSb8Xmj/Health.png",
+    "title": "Fitness Apparel Bundle",
+    "category": "Health",
+    "category_bg_color": "bg-red-500",
+    "card_bg_color": "bg-white",
+    "text_button_bg_color": "bg-gray-800",
+    "description": "Upgrade your workout wardrobe with this bundle of fitness apparel.",
+    "price": 59.99
+    },
+    {
+    "picture": "https://i.ibb.co/v4vPj2N/Education.png",
+    "title": "Scientific Calculator",
+    "category": "Education",
+    "category_bg_color": "bg-blue-500",
+    "card_bg_color": "bg-white",
+    "text_button_bg_color": "bg-gray-700",
+    "description": "A high-quality scientific calculator for students and professionals.",
+    "price": 19.99
+    },
+    {
+    "picture": "https://i.ibb.co/t22qQMX/Food.png",
+    "title": "Coffee Sampler Pack",
+    "category": "Food",
+    "category_bg_color": "bg-green-500",
+    "card_bg_color": "bg-white",
+    "text_button_bg_color": "bg-gray-900",
+    "description": "Explore a variety of gourmet coffee flavors with this sampler pack.",
+    "price": 24.99
+    }
+    ]
