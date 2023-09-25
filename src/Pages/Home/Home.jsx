@@ -4,7 +4,7 @@ import Donates from "../../components/Donates/Donates";
 
 const Home = () => {
     const donates = useLoaderData();
-    console.log(donates);
+    // console.log(donates);
     return (
         <div>
             <Banner></Banner>

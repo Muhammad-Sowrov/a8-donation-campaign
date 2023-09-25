@@ -1,10 +1,6 @@
 const Banner = () => {
   return (
     <div>
-      {/* <div className="bg-slate-400 h-[70vh] ">
-                
-            </div> */}
-
       <div
         className="hero min-h-[70vh]"
         style={{
@@ -14,8 +10,8 @@ const Banner = () => {
       >
         <div className="hero-overlay bg-white bg-opacity-90"></div>
         <div className="hero-content text-center text-neutral-content">
-          <div className="max-w-md">
-            
+          <div className="">
+            <h1 className="text-base md:text-2xl lg:text-4xl font-bold text-black mb-5">I Grow By Helping People In Need</h1>
             <button className="btn btn-primary">Get Started</button>
           </div>
         </div>
