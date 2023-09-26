@@ -11,7 +11,7 @@ const Cards = () => {
     const findCard = cards?.find((card) => card.id === id);
     setCard(findCard);
   }, [cards, id]);
-  console.log(card);
+  // console.log(card);
   return <div>
     <Card card={card}></Card>
 
