@@ -22,7 +22,7 @@ const DonatesCard = ({ donate }) => {
         </figure>
         <div className="car-body items-center text-start px-3 py-1">
           <div className="card-actions">
-            <Link to={`/donation/${id}`}>
+            <Link to={`/card/${id}`}>
               <button
                 className="border border-gray-700 rounded p-1 {category_bg_color}"
                 style={{
