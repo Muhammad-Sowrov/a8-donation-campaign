@@ -12,10 +12,11 @@ const Cards = () => {
     setCard(findCard);
   }, [cards, id]);
   // console.log(card);
-  return <div>
-    <Card card={card}></Card>
-
-  </div>;
+  return (
+    <div>
+      <Card card={card}></Card>
+    </div>
+  );
 };
 
 export default Cards;

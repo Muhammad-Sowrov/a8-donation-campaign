@@ -1,5 +1,5 @@
 import { ToastContainer, toast } from "react-toastify";
-import 'react-toastify/dist/ReactToastify.css';
+import "react-toastify/dist/ReactToastify.css";
 
 const Card = ({ card }) => {
   const {
@@ -13,23 +13,20 @@ const Card = ({ card }) => {
     price,
   } = card || {};
 
-  const handleDonate = () =>{
-    
+  const handleDonate = () => {
     const addDonate = [];
 
-    const donateItem = JSON.parse(localStorage.getItem('donate'))
-    if(!donateItem){
+    const donateItem = JSON.parse(localStorage.getItem("donate"));
+    if (!donateItem) {
       addDonate.push(card);
-      localStorage.setItem('donate', JSON.stringify(addDonate));
-      toast('Donation Successful!')
+      localStorage.setItem("donate", JSON.stringify(addDonate));
+      toast("Donation Successful!");
+    } else {
+      addDonate.push(...donateItem, card);
+      localStorage.setItem("donate", JSON.stringify(addDonate));
+      toast("Donation Successful!");
     }
-    else{
-      addDonate.push(...donateItem,card)
-      localStorage.setItem('donate', JSON.stringify(addDonate))
-      toast("Donation Successful!")
-    }
-
-  }
+  };
   return (
     <div className="">
       <div className="relative flex flex-col rounded-xl bg-clip-border text-gray-700 shadow-md">
@@ -39,7 +36,8 @@ const Card = ({ card }) => {
               <img className="container px-10 " src={picture} alt="ui/ux" />
             </div>
             <div className="relative pl-14 -mb-30">
-              <button onClick={handleDonate}
+              <button
+                onClick={handleDonate}
                 className="border border-gray-700 rounded p-1"
                 style={{
                   color: category_bg_color,

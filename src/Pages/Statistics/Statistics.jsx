@@ -1,9 +1,11 @@
+import Statistic from "./Statistic";
+
 const Statistics = () => {
-    return (
-        <div>
-            
-        </div>
-    );
+  return (
+    <div>
+      <Statistic></Statistic>
+    </div>
+  );
 };
 
 export default Statistics;

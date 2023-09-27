@@ -1,8 +1,25 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Donation Camp
 
-Currently, two official plugins are available:
+Welcome to Donation Camp! Donation Camp is a web platform designed to facilitate donations for some category.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+## Features
+
+- In this website, there are multiple category to donate money. 
+
+- Category: There are some category called Health, Food, Education etc. Users can donate easily in this category.
+
+- Users can also see their contribution in the  Statistic Page. They can easily see in Pie chart their donated contribution.
+
+- In Donation page, There are 12 card. each card has three different color. Color for(Button, Text, Card Background )
+
+
+
+
+
+## Authors
+
+Developed By:
+[@Muhammad Sowrov](https://github.com/Muhammad-Sowrov)
+
